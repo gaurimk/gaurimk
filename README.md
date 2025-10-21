@@ -1,20 +1,20 @@
 <h1 align="center">👋 Hi, I'm Gauri Kutakole</h1>
 
 <p align="center">
-  🚀 <b>Aspiring Data Analyst &  Machine Learning </b> | 📍 Pune, Maharashtra, India <br>
-  Passionate about solving real-world problems using <b>Data</b> and <b>AI</b>.
+  🚀 <b>Aspiring Data Analyst & Machine Learning </b> | 📍 Pune, Maharashtra, India <br>
+  Passionate about leveraging <b>Data</b> and <b>AI</b> to solve real-world challenges.
 </p>
 
 ---
 
-## 🧩 About Me
+## 🧠 About Me
 
-🌱 A self-motivated and curious learner pursuing **B.E. in Artificial Intelligence & Machine Learning** at **Alva’s Institute of Engineering and Technology (2022–2026)**.  
-📊 Strong foundation in **Python**, **Data Analysis**, **Machine Learning**, and **Visualization**.  
+🎓 Pursuing **B.E. in Artificial Intelligence and Machine Learning** at **Alva’s Institute of Engineering and Technology (2022–2026)**.  
 💼 Currently working as a **Data Analyst Intern** at **ASTRANOVA Dynamics LLP, Bangalore**.  
-🧠 Exploring **Generative AI**, **Natural Language Processing (NLP)**, and **Data Analytics Pipelines**.  
-🔬 Passionate about applying data science to **healthcare, safety**, and **consumer analytics**.  
-🎯 Believer in continuous learning and collaboration through open-source contributions.  
+📊 Experienced in **Python, Data Analysis, Machine Learning, and Data Visualization**.  
+🧠 Interested in **Generative AI, NLP, and Advanced Analytics**.  
+🚀 Strong problem-solving skills with hands-on experience in **data-driven projects** and **model development**.  
+🎯 Passionate about turning raw data into actionable insights and building impactful AI solutions.  
 
 ---
 
@@ -38,16 +38,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-- 🧴 **[Data-Driven Study on the Dermatological Impact of Sunscreen Formulations](https://github.com/gaurimk)**  
-  Comparative analysis of mineral vs. chemical sunscreens to assess safety and effectiveness.  
-
-- 🚚 **[Analyzing the Impact of Road Accidents on Truck Drivers' Health and Safety](https://github.com/gaurimk)**  
-  Data-driven study identifying risk factors and proposing preventive strategies for driver safety.  
-
----
-
 ## 💼 Internship Experience
 
 **Data Analyst Intern — ASTRANOVA Dynamics LLP, Bangalore** *(Present)*  
@@ -62,17 +52,15 @@
 
 ---
 
-## 🎓 Education
+## 🌟 Featured Projects
 
-🎓 **Bachelor of Engineering in Artificial Intelligence and Machine Learning**  
-📍 *Alva’s Institute of Engineering and Technology (2022–2026)*  
-CGPA: **8.3**
+- 🧴 **[Dermatological Impact of Sunscreen Formulations](https://github.com/gaurimk)**  
+  Comparative analysis of mineral vs. chemical sunscreens to assess safety and effectiveness.  
 
-📘 **Pre-University Education — Sir Parshurambhau College, Pune** (2020–2022)  
-🏫 **Angel High School, Pune** (2020)
+- 🚚 **[Impact of Road Accidents on Truck Drivers' Health and Safety](https://github.com/gaurimk)**  
+  Identified risk factors and proposed preventive strategies for driver safety.  
 
 ---
-
 ## 🏆 Certifications
 
 - **Python for Data Science** – IBM  
@@ -82,7 +70,7 @@ CGPA: **8.3**
 
 ---
 
-## 🧠 Hackathons & Outreach
+## 🧩 Hackathons & Outreach
 
 - Organizer at **Fusion Hackathon**, Department of AI & ML  
 - Participant in multiple departmental hackathons  
@@ -101,7 +89,7 @@ CGPA: **8.3**
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/gauri-kutakole" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
