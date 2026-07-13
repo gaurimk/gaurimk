@@ -1,7 +1,7 @@
   <h1 align="center">👋 Hi, I'm Gauri Kutakole</h1>
 
 <p align="center">
-  🚀 <b>Aspiring Data Analyst & Machine Learning </b> | 📍 Pune, Maharashtra, India <br>
+  🚀 <b>AI & Machine Learning Engineer | Generative AI | Large Language Models (LLMs) | Building Intelligent AI Solutions </b> | 📍 Pune, Maharashtra, India <br>
   Passionate about leveraging <b>Data</b> and <b>AI</b> to solve real-world challenges.
 </p>
 
@@ -11,7 +11,7 @@
 
 🎓 Completed **B.E. in Artificial Intelligence and Machine Learning** at **Alva’s Institute of Engineering and Technology (2022–2026)**.  
 💼 Completed working as a **Data Analyst Intern** at **ASTRANOVA Dynamics LLP, Bangalore (August 2025 - April 2026)**.  
-📊 Experienced in **Python, Data Analysis, Machine Learning, and Data Visualization**.  
+📊 Experienced in **Python, AI, LLMs Data Analysis, Machine Learning, and Data Visualization**.  
 🧠 Interested in **Generative AI, NLP, and Advanced Analytics**.  
 🚀 Strong problem-solving skills with hands-on experience in **data-driven projects** and **model development**.  
 🎯 Passionate about turning raw data into actionable insights and building impactful AI solutions.  
